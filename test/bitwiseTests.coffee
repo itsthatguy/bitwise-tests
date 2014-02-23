@@ -6,7 +6,6 @@ describe 'BitwiseTests', ->
   testOpts =
     initialNumber: 255
     initialArray: [255,255,255]
-    expectedBinary: 10010010101110101000
 
   it 'should return a correct binary string', ->
     bitwiseTests = new BitwiseTests()
