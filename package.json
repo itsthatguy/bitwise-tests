@@ -1,0 +1,33 @@
+{
+  "name": "bitwise-tests",
+  "version": "0.0.1",
+  "description": "Seeing the binary and hexadecimal output of bitwise operations is super helpful. Here are some simple functions for doing just that.",
+  "author": "Kevin Altman @itg",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "coffee-script": "^1.7.1",
+    "mocha": "^1.17.1",
+    "should": "^3.1.2"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsthatguy/bitwise-tests.git"
+  },
+  "keywords": [
+    "bitwise",
+    "binary",
+    "hex",
+    "test",
+    "mocha"
+  ],
+  "bugs": {
+    "url": "https://github.com/itsthatguy/bitwise-tests/issues"
+  },
+  "homepage": "https://github.com/itsthatguy/bitwise-tests"
+}
