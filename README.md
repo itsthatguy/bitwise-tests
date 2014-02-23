@@ -1,21 +1,23 @@
-# Setup
+# Bitwise Tests!
 
-1. Install Node: http://nodejs.org/
+## Setup
 
-2. Clone the repo
+Install Node: http://nodejs.org/
+
+### Clone the repo
 ```
 git clone git@github.com:itsthatguy/bitwise-tests.git
 ```
 
-3. Install project dependencies
+### Install project dependencies
 ```
 npm install
 ```
 
-4. Run the tests
+### Run the tests
 ```
 npm test
 ```
 
-5. Celebrate!
+## Celebrate!
 ![](http://media1.giphy.com/media/YTbZzCkRQCEJa/giphy.gif)
