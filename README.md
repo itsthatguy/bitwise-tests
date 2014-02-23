@@ -2,7 +2,8 @@
 
 ## Setup
 
-Install Node: http://nodejs.org/
+### Install Node
+Navigate your browsing device here: http://nodejs.org/
 
 ### Clone the repo
 ```
